@@ -1,0 +1,5 @@
+-> Subir a Gitpages el proyecto
+
+    Registrar usuario y correo de git:
+        git config --global user.user "moncada92"
+        git config --global user.email "camilo.moncada1992@gmail.com"
