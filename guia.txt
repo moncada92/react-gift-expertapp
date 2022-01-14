@@ -3,3 +3,5 @@
     Registrar usuario y correo de git:
         git config --global user.user "moncada92"
         git config --global user.email "camilo.moncada1992@gmail.com"
+
+    ir al repositorio creado en github(crearlo si no lo tienen y seguir los pasos) ir a settings -> github Pages
